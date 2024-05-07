@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=filmsapp;AccountKey=5uWlJiHGKnUrt38jmoO/TxrbrLPWmGXWPdo0fGMvObBpcK8wBNI0rkdINgb0USLJ02SBSsW/TFE7+ASty3RJfA==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing"
+  }
+}
